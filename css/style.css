@@ -94,6 +94,7 @@ html {
 	-ms-text-size-adjust:100%;
 	width: auto!important; 
 	overflow-x: hidden!important;
+	overflow: scroll;
 
 }
 html,html a {
