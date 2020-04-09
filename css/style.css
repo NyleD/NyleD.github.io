@@ -108,7 +108,6 @@ body {
 	margin:0;
 	font-family: 'Open Sans',sans-serif;
 	width: auto!important; 
-	overflow-x: hidden!important;
 }
 /* ==========================================================================Links========================================================================== */
 a:focus {
